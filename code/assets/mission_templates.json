@@ -1,0 +1,17 @@
+{
+  "Siachen \u2013 High Altitude": {
+    "Troop_Count": 200,
+    "Terrain": "Mountain",
+    "Weather": "Cold"
+  },
+  "Thar Desert \u2013 Patrol": {
+    "Troop_Count": 150,
+    "Terrain": "Desert",
+    "Weather": "Hot"
+  },
+  "Flood Relief \u2013 Assam": {
+    "Troop_Count": 100,
+    "Terrain": "Plain",
+    "Weather": "Moderate"
+  }
+}
